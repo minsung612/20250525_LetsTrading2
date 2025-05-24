@@ -1,0 +1,23 @@
+.PortFolio{
+    height : 50px;
+    color : white;
+    background-color : #5f5f5f;
+    text-align: center;
+}
+#list{
+    width: 300px;
+    height : 500px;    
+}
+.combobox {
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+}
+
+.information {
+    height: 40px;
+    font-size: 16px;
+    padding: 0 12px;
+    margin-left : 10px;
+    margin-top : 10px;
+}

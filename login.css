@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-size: 1.0rem; font-weight: normal;
+}
+fieldset{border:0;}
+legend{display:none;}
+a {
+    color:#000;
+    text-decoration: none;
+}
+
+button{
+    border:0;
+    background: none;
+}
+input{
+    border:0;
+}
+select{
+    border:0;
+}
+ul, li {
+    list-style: none;
+}
